@@ -20,7 +20,9 @@ I'm Alma Benavides, a student at Brigham Young University-Idaho. I'm passionate 
 ## Projects:
 - **Individual Ecommerce Project:** [GameZone](https://gamezonewdd430.vercel.app/)
 - **Team Ecommerce Project:** [Crafters Project](https://crafters-project.vercel.app/login)
-
+- **FrontEnd Project:** [Bountiful Food](https://almabenav.github.io/wdd230/BountifulFood/)
+- **Web Design Project:** [GoEntrepreneur](https://almabenav.github.io/wdd130/goentrepreneur/)
+  
 ## Let's Connect! 🚀
 
 - Here is my [www.linkedin.com/in/almabenav ] profile
