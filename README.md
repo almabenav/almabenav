@@ -27,6 +27,3 @@ I'm Alma Benavides, a student at Brigham Young University-Idaho. I'm passionate 
 
 - Here is my [www.linkedin.com/in/almabenav ] profile
 
-
-## GitHub Statistics
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almabenav&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=almabenav&theme=radical)
